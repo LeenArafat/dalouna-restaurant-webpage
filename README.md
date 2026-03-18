@@ -1,7 +1,13 @@
-# README
+# Dalouna Restaurant Webpage
 
-**Name:** Leen Arafat
-**Student ID:** 12428865
+A static single-page website for for a traditional Palestinian restaurant named : Dalouna
 
-## Project Description
-This project is a web page for a traditional Palestinian restaurant named : Dalouna
+This project was created as part of a university assignment.
+
+## Features
+- Responsive design
+- Clean UI
+
+## Technologies
+- HTML
+- CSS
