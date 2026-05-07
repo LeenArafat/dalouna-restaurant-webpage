@@ -16,7 +16,7 @@ This project was created as part of a university assignment.
 
 ## Preview
 
-<img src="view/LaptopsView.png" alt="Dalouna Preview" width="100%">
+<img src="./LaptopsView.png" alt="Dalouna Preview" width="100%">
 
 ---
 
